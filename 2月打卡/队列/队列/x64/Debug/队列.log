@@ -1,0 +1,2 @@
+﻿  队列.c
+E:\C语言\寒假学习打卡记录\2月打卡\队列\队列\队列.c(58,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

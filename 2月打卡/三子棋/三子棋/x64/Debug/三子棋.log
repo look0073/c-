@@ -1,0 +1,5 @@
+﻿  game.c
+E:\C语言\寒假学习打卡记录\2月打卡\三子棋\三子棋\game.c(102,9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test.c
+  正在生成代码...
+  三子棋.vcxproj -> E:\C语言\寒假学习打卡记录\2月打卡\三子棋\x64\Debug\三子棋.exe
